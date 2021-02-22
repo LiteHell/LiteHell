@@ -4,7 +4,9 @@
 Hello, I'm a rookie software developer. ;D
 
 ## 👣 Footprint
-- Enrolled in bachelor program of [Computer Science and Engineering](https://cse.cau.ac.kr) in [Chung-Ang University](https://www.cau.ac.kr) in 2019
+- 2019 ~<br>
+  B.S. in Computer Science and Engineering ([ABEEK](https://www.abeek.or.kr)-Accredited), In Progress<br>
+  [Chung-Ang University](https://www.cau.ac.kr), Seoul, Republic of Korea
 
 ## 💌 How to reach me?
 Send me an email. You can find my email address on my github profile.
