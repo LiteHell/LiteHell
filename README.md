@@ -11,3 +11,6 @@ Hello, I'm a rookie software developer. ;D
 
 ## 💌 How to reach me?
 Send me an email. You can find my email address on my github profile.
+
+## 🔗 Links
+- <a rel="me" href="https://hackers.pub/@litehell">Fediverse</a>
